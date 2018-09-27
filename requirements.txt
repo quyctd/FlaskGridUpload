@@ -3,7 +3,6 @@
 # ----------------------
 flask
 pymongo
-mongoengine
 Pillow
 
 # ----------------------
